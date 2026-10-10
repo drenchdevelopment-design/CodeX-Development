@@ -1,0 +1,3 @@
+945b56a5c6c5afd235d23183f8621ba12535c6bb0cc220e194a508c4090f9374  mini-map-updated.zip
+e6bdcebe0708bfd4e5caafaa591f08e770bb5aa7961c42b8400dcc26f47f6728  mini-map-preview.html
+fe3cc9fe09910403f643b824b38bd92b6dcb43e288164d0da432f35dcab10ea3  mini-map-preview.png
