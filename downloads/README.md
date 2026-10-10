@@ -16,3 +16,7 @@ SHA256SUMS.txt records checksums for both files.
 - Native ped headshots replace faction/archetype artwork on character selection. Offline preview uses placeholders because real ped textures exist only in FiveM.
 
 Replace the complete resource folders, including the new portraits client script and updated manifest. Preserve your custom configuration, restart your server, and reconnect.
+
+### Registration image adjustment
+
+The “Choose your path” cards now show the complete portrait images using taller, responsive image areas and contain scaling, without cropping.
