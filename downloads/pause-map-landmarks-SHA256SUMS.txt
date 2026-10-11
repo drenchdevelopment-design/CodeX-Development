@@ -1,0 +1,4 @@
+dd9cda7033e77244c44de8fb272781d7d51f573510ddccbf022e1f145eb52e81  pause-map-landmarks.zip
+6eb582e299ad8b836f2130bc608952024ea1774175e6d33b36192c9ef5688234  pause-map-landmarks-preview.html
+d1473e6af86cc1df8d83e6f8bdeb8e98fcf255e4c697cd369cc7ced68cf58f8f  pause-map-landmarks.png
+a93aef6aec40cb3d65bd2157c5e594b868be86c035210b1d1137304ef2237caf  pause-map-landmarks-README.md
