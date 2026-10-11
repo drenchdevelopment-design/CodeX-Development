@@ -1,0 +1,4 @@
+b7fda71b5e6713e59c67f28e9771d01d10e2a6fb41c2c77e2cdca2444de83943  pause-map-reference.zip
+8442ba6fa456d0a2e0cafcb41b60ff9087cd7be3b3bded684725a3d31f698c96  pause-map-reference-preview.html
+8624a8d273bc639937efb9796859a393041e57243e3632ca6caa674a51c0907c  pause-map-reference.png
+a515391da70ba5a53ca17f404f043b065a0675ddcd65b5b0cc6b0cdd23b2664b  pause-map-reference-README.md
