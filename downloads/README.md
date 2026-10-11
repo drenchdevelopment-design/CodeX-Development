@@ -1,22 +1,16 @@
-# The Ville downloads — 2.1.0
+# The Ville downloads — 2.2.0
 
-- **the-ville-multichar-updated.zip** — All four updated FiveM resources, editable UI source, tests, screenshots, and installation instructions. Extract the ZIP and read README.md before installing.
-- **the-ville-preview.html** — Standalone interactive preview. Download this file and open it in Chrome or Edge; no server is needed.
+- **the-ville-multichar-updated.zip** — All four resources, editable source, tests, screenshots, and installation instructions.
+- **the-ville-preview.html** — Download and open in Chrome or Edge for the offline interactive preview.
 
-To download on GitHub, open the file and use **Download raw file**. The HTML file is a browser preview with sample data, not a live FiveM session.
+Use **Download raw file** on GitHub. SHA256SUMS.txt contains checksums.
 
-Automated browser checks and 70 Lua assertions passed. Live FiveM/ESX/MySQL integration still requires testing on your staging server.
+## Latest update
 
-SHA256SUMS.txt records checksums for both files.
+Character initials replace ped photos in the list and large profile. Removed the bus cinematic, fixed transition waits, fades, and portrait capture. Screen handoffs use readiness acknowledgments and keep the outgoing UI visible until the next is ready. Identity opens immediately, with submission gated until ESX has loaded the character.
 
-## What changed in 2.1.0
+Replace the complete resource folders, preserve your custom configuration, restart the server, and reconnect. The obsolete portraits.lua is no longer loaded and can be removed.
 
-- Full-screen, opaque background, including ultrawide displays.
-- Fixed the ESX player-proxy comparison that could incorrectly return `no_player` during registration; errors no longer stack raw notifications.
-- Native ped headshots replace faction/archetype artwork on character selection. Offline preview uses placeholders because real ped textures exist only in FiveM.
+75 Lua assertions and Chromium browser checks passed. Live FiveM/ESX/MySQL testing is still required; genuine server and asset loading times remain.
 
-Replace the complete resource folders, including the new portraits client script and updated manifest. Preserve your custom configuration, restart your server, and reconnect.
-
-### Registration image adjustment
-
-The “Choose your path” cards now show the complete portrait images using taller, responsive image areas and contain scaling, without cropping.
+The separate mini-map downloads are unchanged.
